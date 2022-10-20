@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Symfony**
 
-- 💬 Ask me about **react, express, Flask,Django**
-
 <p align="left">
 </p>
 
